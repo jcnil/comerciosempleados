@@ -1,0 +1,1 @@
+from fastapi_simple_security.security_api_key import api_key_security
